@@ -45,12 +45,8 @@ You may need to do the following.
 ## Citations
 
 >@ARTICLE{10671599,
-  author={Yu, Mouzhe and He, Liheng and Shen, Zhehui and Lv, Meng},
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={STRD-Net: A Dual-Encoder Semantic Segmentation Network for Urban Green Space Extraction}, 
-  year={2024},
-  volume={62},
-  number={},
-  pages={1-13},
-  keywords={Feature extraction;Remote sensing;Transformers;Semantic segmentation;Vegetation mapping;Normalized difference vegetation index;Convolutional neural networks;Dual-encoder;land object extraction;remote sensing images;semantic segmentation;urban green spaces},
-  doi={10.1109/TGRS.2024.3456898}}
+>author={Yu, Mouzhe and He, Liheng and Shen, Zhehui and Lv, Meng},
+>journal={IEEE Transactions on Geoscience and Remote Sensing},
+>title={STRD-Net: A Dual-Encoder Semantic Segmentation Network for Urban Green Space Extraction},
+>year={2024},
+>volume={62},}
