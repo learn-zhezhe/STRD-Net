@@ -1,6 +1,6 @@
 # STRD-Net
 
-Pytorch codes for [STRD-Net A dual-encoder semantic segmentation network for urban green space extraction]()
+Pytorch codes for [STRD-Net A dual-encoder semantic segmentation network for urban green space extraction](https://ieeexplore.ieee.org/document/10671599)
 
 ## Environment
 
