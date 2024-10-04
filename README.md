@@ -45,8 +45,13 @@ You may need to do the following.
 ## Citations
 
 >@ARTICLE{10671599,
+>
 >author={Yu, Mouzhe and He, Liheng and Shen, Zhehui and Lv, Meng},
+>
 >journal={IEEE Transactions on Geoscience and Remote Sensing},
+>
 >title={STRD-Net: A Dual-Encoder Semantic Segmentation Network for Urban Green Space Extraction},
+>
 >year={2024},
+>
 >volume={62},}
